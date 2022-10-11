@@ -10,3 +10,4 @@ const cliente = {
 // console.log(cliente.nome);
 console.log(`Meu nome é ${cliente.nome} e tenho ${cliente.idade} anos.`); //usando template string
 console.log(cliente.cpf.substring(0, 3)); //comeca no 0 e para no indice 3
+
